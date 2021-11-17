@@ -11,5 +11,5 @@ The purpose of this projec is to verify any bias reviews the vine program has in
 ## Summary
  - While there are only 2 vine reviews, it is not enough to make a conclusion about the vine program.
  - Assume that the 50% five star vine review is valid, this percentage is far less than 60.15% of five star non-vine reviews. Therefore, it is not sufficient to conclude that there is a bias in leaving reviews when customers get paid to do so under the vine program. 
-
+ - To have a better analysis in the future, more vine reviews should be collected. There should be at least 30 vine reviews so that any conclusion can be made. 
 
